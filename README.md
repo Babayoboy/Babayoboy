@@ -8,6 +8,9 @@
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-joshi-994b81367/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/joshizop/) [![Portfolio](https://img.shields.io/badge/My%20Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://babayoboy.github.io/Mysite/)
 
+# 📊 Leetcode Stats:
+<img src="https://leetcard.jacoblin.cool/joshizop?theme=dark&font=Ubuntu" alt="joshizop's LeetCode Stats" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Babayoboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Babayoboy&theme=dark&hide_border=false)<br/>
